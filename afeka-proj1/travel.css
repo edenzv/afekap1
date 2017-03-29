@@ -1,0 +1,41 @@
+body {
+    background-color: #81BEF7;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+table{
+	width:75%;
+	vertical-align: top;
+	text-align: left;
+}
+
+.tablefont{
+	width:80%;
+	
+}
+
+.fonttitle{
+	color: yellow;
+	font-size: 350%;
+}
+
+.urlImg {
+	width: 1000px;
+	height:450px;
+	display:block;
+	background-image: url('images/world-map-click.png');
+	background-size: cover;
+} 
+
+.w3-btn{
+	background-color: white;
+}
+
+.w3-btn:hover{
+	background-color: yellow;
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
